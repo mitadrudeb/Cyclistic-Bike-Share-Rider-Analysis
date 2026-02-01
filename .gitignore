@@ -205,3 +205,24 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Large raw data files
+data/raw/*.csv
+data/raw/*.zip
+
+# Processed data (large files)
+data/processed/cleaned_2024_data.csv
+data/processed/tableau_sample_data.csv
+data/processed/combined_2024_raw.csv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment
+venv/
+.env
