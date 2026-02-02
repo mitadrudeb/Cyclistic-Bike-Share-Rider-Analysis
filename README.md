@@ -281,5 +281,5 @@ The three recommendations target these specific behavioral differences: converti
 
 *This project was completed as part of the Google Data Analytics Professional Certificate. AI assistants were leveraged during the learning process to support workflow guidance and problem-solving, while all data analysis, cleaning decisions, and business recommendations were independently developed and validated.*
 
-*Analyst: MITADRU DEB*
+*Analyst: MITADRU DEB*\
 *Date: 30/01/2026*
