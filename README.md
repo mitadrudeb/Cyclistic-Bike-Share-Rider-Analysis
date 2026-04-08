@@ -3,6 +3,16 @@
 End-to-end data analysis of 4.8M bike rides to uncover insights for converting casual riders into members | Google Data Analytics Capstone
 
 ---
+## Skills Demonstrated
+
+- **Data Cleaning & Validation** — Audited and cleaned 5.86M records, documenting every removal decision (duplicates, negative durations, outliers > 24 hours) with a transparent before/after trail.
+- **Exploratory Data Analysis (EDA)** — Compared casual riders and annual members across 10+ behavioral metrics, including ride duration, hourly patterns, weekday/weekend splits, and seasonal trends.
+- **SQL Querying** — Wrote 10 analytical MySQL queries covering aggregations, grouping, ranking, and time-based analysis against a relational database.
+- **Data Visualization** — Built 7 publication-ready charts (matplotlib, seaborn) communicating ride patterns, peak hours, and bike-type preferences to a non-technical audience.
+- **Business Storytelling** — Translated statistical findings into three targeted, evidence-backed marketing recommendations linked directly to observed rider behavior.
+- **Stakeholder Communication** — Structured the entire project around the Google Data Analytics framework (Ask → Prepare → Process → Analyze → Share → Act) for clear handoff to marketing and executive stakeholders.
+
+---
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -282,4 +292,4 @@ The three recommendations target these specific behavioral differences: converti
 *This project was completed as part of the Google Data Analytics Professional Certificate. AI assistants were leveraged during the learning process to support workflow guidance and problem-solving, while all data analysis, cleaning decisions, and business recommendations were independently developed and validated.*
 
 *Analyst: MITADRU DEB*\
-*Date: 30/01/2026*
+*Project completed: January 2026*
